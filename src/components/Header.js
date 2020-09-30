@@ -38,7 +38,7 @@ export const Header = () => {
                 <Avatar style={{ width: "175px", height: "165px", marginLeft: "76rem" }} src={avatar} alt="Neetu Chauhan" />
             </Grid>
             <Typography variant="h4" style={{ fontFamily: "fantasy", color: "white" }}>
-                <Typed strings={["Neetu Chauhan"]} typeSpeed={40} />
+                <Typed strings={["Ms. Neetu Chauhan"]} typeSpeed={40} />
 
             </Typography>
             <Typography className={classes.subtitle} variant="h5" style={{ color: "aqua", fontFamily: "fantasy" }}>
